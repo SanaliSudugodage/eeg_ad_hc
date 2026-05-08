@@ -8,7 +8,7 @@ project:
 
 data:
   n_splits: 5
-  active_fold: 0
+  active_fold: 2
   label_file: data/labels/ad_hc_subjects.csv
   split_file: data/splits/subject_level_5fold.csv
   synthetic_fallback: false
